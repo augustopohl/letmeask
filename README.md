@@ -3,11 +3,6 @@
     <img src="./.github/logo-full.svg" width="350" heigh="100" alt="logo letmeask">
 </h1>
 
-<h4 align="center">
-    Trilha ReactJS <img src="./.github/logo-icon-react.svg" height="15" alt="logo icon react">
-</h4>
-
-
 <br>
 
 <h1 align="center">
