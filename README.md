@@ -7,12 +7,6 @@
     Trilha ReactJS <img src="./.github/logo-icon-react.svg" height="15" alt="logo icon react">
 </h4>
 
-<p align="center">
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/pedrojrodrigues/NLW-Together-letmeask?color=%23e559f9&style=for-the-badge&labelColor=835afd">
-    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/pedrojrodrigues/NLW-Together-letmeask?color=%23e559f9&style=for-the-badge&labelColor=835afd">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/pedrojrodrigues/NLW-Together-letmeask?color=%23e559f9&style=for-the-badge&labelColor=835afd">
-    <img alt="GitHub" src="https://img.shields.io/github/license/pedrojrodrigues/NLW-Together-letmeask?color=%23e559f9&style=for-the-badge&labelColor=835afd">
-</p>
 
 <br>
 
