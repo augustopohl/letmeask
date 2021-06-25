@@ -39,6 +39,11 @@ export function Home() {
             return;
         }
 
+        if (roomRef.val().endAt) {
+            alert('Sala já foi encerrada')
+            return;
+        }
+
         history.push(`/rooms/${roomCode}`)
 
     }
